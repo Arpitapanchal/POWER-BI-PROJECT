@@ -55,3 +55,4 @@ Report Customization:
 
 The dashboard layout is customized to enhance readability and user experience. This includes arranging visualizations logically, using color schemes to differentiate between metrics, and adding titles and labels for clarity.
 Custom visuals and themes are applied to make the dashboard visually appealing and aligned with the organization's branding.
+This HR analytics Power BI dashboard is a powerful tool for understanding and managing the workforce. By combining technical data handling with intuitive visualizations, it enables HR professionals to gain insights into employee demographics, performance, and attrition. This, in turn, supports strategic decision-making aimed at improving employee retention, optimizing performance, and fostering a healthy work environment.
